@@ -1,11 +1,11 @@
 
-language.name=English
-language.region=US
-language.code=en_US
+language.name=English (Canada, eh?)
+language.region=CA
+language.code=en_CA
 
-gui.done=Done
-gui.cancel=Cancel
-gui.back=Back
+gui.done=Done, eh?
+gui.cancel=Cancel, eh?
+gui.back=Back, eh?
 gui.toMenu=Back to title screen
 gui.up=Up
 gui.down=Down
@@ -24,7 +24,7 @@ menu.singleplayer=Journey Alone
 menu.multiplayer=Join With Other Wizards
 menu.online=Minecraft Realms
 menu.options=Options...
-menu.quit=Quit Game
+menu.quit=Quit Game, eh?
 menu.returnToMenu=Save and Quit to Title
 menu.disconnect=Disconnect
 menu.returnToGame=Back to Quest

@@ -1,7 +1,7 @@
 
-language.name=English
-language.region=US
-language.code=en_US
+language.name=English (UK)
+language.region=GB
+language.code=en_GB
 
 gui.done=Done
 gui.cancel=Cancel
