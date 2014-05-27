@@ -357,6 +357,7 @@ tile.thinGlass.name=Glass Pane
 tile.cloth.name=Wool
 tile.flower.name=Flower
 tile.rose.name=Rose
+tile.flower2.blueOrchid.name=Pipeweed
 tile.mushroom.name=Mushroom
 tile.blockGold.name=Block of Gold
 tile.blockIron.name=Block of Iron
