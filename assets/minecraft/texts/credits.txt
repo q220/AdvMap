@@ -2,16 +2,54 @@
 [C]§eFable of the Five Wizards
 [C]§f=========================
 
-§7Map created by:
+§7Created by:
+§f			MCMEAT
+§f			The Minecraft Middle Earth Adventure Team
+§f			www.mcmiddleearth.com
+
+
+§7Map and Story Design:
+
 §f			Shmattins
-§f			Devilius
 §f			BevsForBros
 
-§Graphics by:
-			ShiftyJ
-			q220
-			ScoobyDeezy
-			
+
+§Post-Release:
+
+§f			ScoobyDeezy
+
+
+§7Resource Pack Design:
+
+§f			ScoobyDeezy
+§f			q220
+§f			ShiftyJ
+
+
+§Contributors:
+
+§f			devilius
+§f			ryanturambar
+§f			JordD04
+
+
 §Special thanks to:
 
 §f			All the beta testers!
+
+§f			Alekspaleks
+§f			Block_Fortress
+§f			CaptainDagless
+§f			carlosbear
+§f			Fawkes07
+§f			Hoobo
+§f			Impzor
+§f			Ma5terMinD
+§f			MaDIIReD
+§f			meggawatts
+§f			Nightdusk
+§f			SMtg
+§f			StokieBen
+§f			Will_em
+
+§f			Finrod_Amandil for fixes for redstone bugs

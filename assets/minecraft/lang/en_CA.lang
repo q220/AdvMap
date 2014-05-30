@@ -141,10 +141,10 @@ multiplayer.info2=is some buggy early testing going on.
 multiplayer.ipinfo=Enter the IP of a server to connect to it:
 multiplayer.texturePrompt.line1=This server recommends the use of a custom resource pack.
 multiplayer.texturePrompt.line2=Would you like to download and install it automagically?
-multiplayer.downloadingTerrain=Downloading terrain
-multiplayer.stopSleeping=Leave Bed
-multiplayer.player.joined=%s joined the game
-multiplayer.player.left=%s left the game
+multiplayer.downloadingTerrain=Singing the Ainulindalë...
+multiplayer.stopSleeping=Wake Up, Sleepies!
+multiplayer.player.joined=%s joined the quest
+multiplayer.player.left=%s left the quest
 
 chat.cannotSend=Cannot send chat message
 chat.type.text=<%s> %s
